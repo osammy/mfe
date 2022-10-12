@@ -1,0 +1,1 @@
+cd $1 && echo "Installing module for $1" && npm install && echo "Module installed for $1"
